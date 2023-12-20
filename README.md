@@ -17,5 +17,5 @@ Já a API, deve ser MVC e preferencialmente no padrão Rest API. A API deve ter 
 O esquema relacional a ser seguido:
 ![Esquema Relacional](https://cdn.discordapp.com/attachments/1105596238746886144/1186456052632391753/image.png?ex=6593504e&is=6580db4e&hm=10d6d4008639680eb253eb924b6fb8468beb62d1d748272fb0e8e3ab7f92b5d8&)
 
-Boas práticas e código limpo serão avaliados.
+Boas práticas e código limpo também serão avaliados.
 O desafio pode ser realizado na linguagem/framework que preferir, porém é estritamente necessário que seja um front e uma api. É diferencial que seja feito em Nextjs para o front, Django Rest Framework para o back e Postgresql, já que são stacks utilizadas na Code Tower, mas faça na linguagem que tiver domínio. A aplicação, tanto front quanto back devem ser Dockerizadas. É preferível finalizar do que seguir a risca todos requisitos.
