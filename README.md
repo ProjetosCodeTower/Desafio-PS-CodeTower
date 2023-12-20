@@ -9,7 +9,7 @@ O sistema notas, onde o usuário deve conseguir criar, editar e deletar notas.
 ## FRONTEND
 Especificamente sobre o frontend, deverá ser dinâmico, spa, e deve consumir a api de forma que seja capaz de utilizar todas operações. O frontend deve ser fiel ao protótipo, os tamanhos não precisam ser iguais ao do figma, mas precisa parecer visualmente.
 ![Prototipo da aplicação](blob:https://web.whatsapp.com/b8d3e4b5-fc04-4100-a34a-3241c56f9f8c)
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FtyjvaxvfspC39MzKJASxtU%2FUntitled%3Ftype%3Ddesign%26node-id%3D1%253A3%26mode%3Ddesign%26t%3Dz0bo49yXJK9TIY2Z-1" allowfullscreen></iframe>
+Link do figma: https://www.figma.com/file/tyjvaxvfspC39MzKJASxtU/Untitled?type=design&node-id=1%3A3&mode=design&t=z0bo49yXJK9TIY2Z-1
 
 ## BACKEND
 Já a API, deve ser MVC e preferencialmente no padrão Rest API. A API deve ter todas as operações relacionadas a notas, e suas respectivas rotas. É necessário utilizar algum tipo de Banco de Dado, podendo ser SQLite ou um Banco de Dados externo. 
