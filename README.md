@@ -1,5 +1,8 @@
 # Desafio de Projetos CodeTower
 
+Primeiramente, obrigado pelo seu interesse em trabalhar na melhor plataforma de pagamentos do mundo! Abaixo você encontrará todos as informações necessárias para iniciar o seu teste.
+
+## Descrição da tareda
 A partir de um protótipo do figma e um esquema relacional, produzir um frontend e um backend em formato de api.
 O sistema notas, onde o usuário deve conseguir criar, editar e deletar notas.
 
