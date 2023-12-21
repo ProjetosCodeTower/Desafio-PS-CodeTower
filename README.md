@@ -9,8 +9,7 @@ O sistema de notas, onde o usuário deve conseguir criar, editar e deletar notas
 ## FRONTEND
 Especificamente sobre o frontend, deverá ser dinâmico, single page application, e deve consumir a api de forma que seja capaz de utilizar todas operações. O frontend deve ser fiel ao protótipo, os tamanhos não precisam ser iguais ao do figma, mas precisa parecer visualmente. Antes de ir para a aplicação principal, é necessário que seja cadastrado um usuário(Pessoa) e as notas a serem mostradas e criadas na aplicação devem ser relacionadas a essa Pessoa. Não será cobrado tela esteticamente bonita para esse cadastro, essa requisição para registrar uma pessoa pode ser feita diretamente, sem ser exibida na tela, com um useEffect por exemplo, também pode ter uma tela ou até mesmo prompts do javascript para cadastrar. Não é necessário implementar autenticação, somente guarde de alguma forma qual é a pessoa que está fazendo a requisição.
 ![Prototipo da aplicação](https://media.discordapp.net/attachments/1186869708650197094/1186870275611050044/Home.png?ex=6594d214&is=65825d14&hm=9fd2c32525bffbdb2ce3b26a5d086052f696a472210227a8e46a3ef8d23a25c0&=&format=webp&quality=lossless&width=701&height=498)
-<br>![Link do figma](https://www.figma.com/file/tyjvaxvfspC39MzKJASxtU/Untitled?type=design&node-id=1%3A3&mode=design&t=z0bo49yXJK9TIY2Z-1)
-
+<br>![Link do figma](https://www.figma.com/file/tyjvaxvfspC39MzKJASxtU/Untitled?type=design&node-id=2%3A1696&mode=design&t=czd52zkP5ImSduoi-1)
 ## BACKEND
 Já a API, deve ser MVC e preferencialmente no padrão Rest API. A API deve ter todas as operações relacionadas a notas, e suas respectivas rotas. É necessário utilizar algum tipo de Banco de Dado, podendo ser SQLite ou um Banco de Dados externo. Não é necessário implementar uma autenticação.
 
